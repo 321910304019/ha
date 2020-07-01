@@ -1,2 +1,0 @@
-# ha
-Assignment 3
